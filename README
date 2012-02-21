@@ -8,3 +8,6 @@
 
 21 Feb 2012   ML   GitHub Repo "depot" angelegt fuer Rails
                    Ruby on Rails installiert auf Windows (inkl. DevKit)
+21 Feb 2012   ML   Erste Applikation 01_VeranstaltungseinheitSetup\test1 erzeugt
+                   Rails server getestet 
+                   -> Alles OK
